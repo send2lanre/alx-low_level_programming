@@ -1,1 +1,1 @@
-Here's where all that concern C programming goes
+Everything about C language
