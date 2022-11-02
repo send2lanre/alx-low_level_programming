@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _evaluate - evaluate function sqrt
  * @i: interger
@@ -17,7 +16,6 @@ int _evaluate(int i, int n)
 		return (i);
 	return (-1);
 }
-
 /**
  * _sqrt_recursion - evaluate sqrt
  * @n: interger
