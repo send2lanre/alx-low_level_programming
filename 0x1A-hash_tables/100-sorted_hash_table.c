@@ -180,7 +180,6 @@ void shash_table_print(const shash_table_t *ht)
 	printf("}\n");
 }
 
-
 /**
  * shash_table_print_rev - Prints a sorted hash table in reverse order.
  *
